@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&family=Roboto:wght@400;500&family=Rubik:wght@500&display=swap");
+
+body {
+  font-family: "Inconsolata", monospace;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.25rem;
+  color: rgb(129, 65, 65);
+  background: linear-gradient(90deg,#ffff00,#4ce0bb);
+}
+.container{
+  width: 300px;
+  min-height: 300px;
+  margin: auto;
+  margin-top: 8%;
+  text-align: center;
+}
+.count{
+  height: 25px;
+  background-color: rgb(253, 223, 51);
+  border: none;
+  border-radius: 5%;
+  font-family: "Inconsolata", monospace;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
+hr{
+  border: 1px solid limegreen;
+  margin-top: 5%;
+}
+b{
+  display: block;
+  margin-bottom: 10%;
+}
+a{
+  color: rgb(129, 65, 65);
+  text-decoration: none;
+}
+i{
+  color:rgb(129, 65, 65);
+}
